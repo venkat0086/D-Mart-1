@@ -1,7 +1,7 @@
 # D-mart (Clone)
 Project: make a clone of https://www.dmart.in/ site
 
-*DMart is a one-stop supermarket chain that aims to offer customers a wide range of basic home and personal products under one roof  *
+DMart is a one-stop supermarket chain that aims to offer customers a wide range of basic home and personal products under one roof
 
 &nbsp;&nbsp;&nbsp;&#160;In this project we have tried to make a look alike clone of D-mart Website. With our efforts and the technology stack, that we have learned till now in Unit-3 in the masai school. <br><br>
 
